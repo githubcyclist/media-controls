@@ -27,3 +27,6 @@ Or if you want to add features to it, follow these steps to set up the program i
 5. Click "Next" if the "How to experience the best Gradle integration" wizard opens.
 6. Click "Browse..." next to "Project root directory", then press "Finish".
 7. You're done!
+
+## Credits
+Thanks to Dorkbox for making his awesome System Tray (https://github.com/dorkbox/systemtray).
