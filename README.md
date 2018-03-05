@@ -29,4 +29,4 @@ Or if you want to add features to it, follow these steps to set up the program i
 7. You're done!
 
 ## Credits
-Thanks to Dorkbox for making his awesome System Tray (https://github.com/dorkbox/systemtray).
+Thanks to Dorkbox for making his awesome System Tray (https://github.com/dorkbox/systemtray), which I used in this project for the system tray icon.
